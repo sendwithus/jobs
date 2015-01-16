@@ -16,7 +16,9 @@ We are a welcoming technical team that works hard. We are excited to build an aw
 
 You love to create. You have launched a few projects on your own. You have a Github account and you read Hacker News. 
 
-You understand the importance of visual design on customer experience. You have a detailed eye for web design. You're comfortable with CSS and Photoshop.
+You understand the importance of visual design on customer experience. You have a detailed eye for web design. 
+
+You're comfortable with CSS and Photoshop.
 
 You're opinionated about user experience, corporate branding, and know enough javascript to be very dangerous.
 
