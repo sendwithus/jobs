@@ -10,7 +10,7 @@ Sendwithus is changing the way companies send email. Our core service is a simpl
 
 We believe in user experience above all else, and use customer feedback to drive all product development. Our customers are hackers, marketers, startups, and enterprises alike.
 
-We have a strong team that works hard and is excited to build an awesome company in Victoria. Most importantly – we bring the hustle and agility of a San Francisco startup to Canada. 
+We have a strong and welcoming team that works hard and is excited to build an awesome company in Victoria. Most importantly – we bring the hustle and agility of a San Francisco startup to Canada. 
 
 ### Who are you?
 
