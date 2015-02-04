@@ -1,30 +1,31 @@
 # Web Developer &ndash; App Team
 
-We're looking for an experienced web developer to help shape our customer facing applications.
+_Sendwithus HQ, Victoria BC_
 
-Location: Sendwithus HQ, Victoria BC
+We're looking for an experienced web developer to help shape our customer facing applications,
+landing pages, and public resources.
 
-### Who are we?
+You'll be reponsible for build and deployment of all user facing web content.
 
-Sendwithus is changing the way companies send email. Our core service is a simple REST API to send templated emails, powering millions of emails each day.
+This is not a content role; you'll be developing software systems and
+working closely with designers to make sure everything looks great.
 
-We believe in user experience above all else, and use customer feedback to drive all product development. Our customers are hackers, marketers, startups, and enterprises alike.
+__Who are you?__
 
-We are a welcoming technical team that works hard. We are excited to build an awesome company in Victoria. Most importantly – we bring the hustle and agility of a San Francisco startup to Canada. 
+You love to code and have launched projects on your own.
 
-### Who are you?
+You have a GitHub account and read Hacker News.
 
-You love to create. You have launched a few projects on your own. You have a Github account and you read Hacker News. 
+You understand the important role visual design plays in customer experience.
 
-You understand the importance of visual design on customer experience. You have a detailed eye for web design. 
+You're very comfortable with CSS and HTML. You're not afraid of Photoshop.
 
-You're comfortable with CSS and Photoshop.
+You've used static website generators like Jekyll.
 
-You're opinionated about user experience, corporate branding, and know enough javascript to be very dangerous.
+You're opinionated about user experience, branding and technical documentation.
 
-You've played with a few web frameworks and tried different languages &ndash; just for fun.
+Not afraid of backend code in any language.
 
-You’re keen to play an important role, learn new things, write meaningful code, and build an amazing product that customers love. You inspire others to work hard, get shit done, and have fun along the way.
+__Apply__
 
-### Apply
-Email [jorbz at sendwithus dot com](mailto:jorbz@sendwithus.com) introducing yourself.
+Email [jobs at sendwithus dot com](mailto:jobs@sendwithus.com) introducing yourself.
