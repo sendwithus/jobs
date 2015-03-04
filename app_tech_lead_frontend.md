@@ -2,11 +2,11 @@
 
 _Sendwithus HQ, Victoria BC_
 
-We're looking for an experienced frontend web developer to help design and architect our customer facing applications, including our primary UI (the sendwithus dashboard), landing pages, and public resources.
+We're looking for an experienced frontend web developer to help design and architect our customer facing applications. 
 
-You'll be reponsible for architecture and deployment of all user facing web content.
+You'll be reponsible for architecture and deployment of all user facing web content, including our primary UI (the sendwithus dashboard), landing pages, and other public resources.
 
-This is not a content or design role; you'll be leading our frontend team and
+This is not a content or design role; you'll be leading our frontend technical team and
 working closely with designers and product to make sure everything runs smooth and looks great.
 
 __Who are you?__
