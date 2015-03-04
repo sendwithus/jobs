@@ -13,9 +13,9 @@ __Who are you?__
 
 You have a GitHub account and know what Hacker News is.
 
-You know about React, Angular, and Ember and you have opinions on when to use each.
+You've tried frameworks like React, Angular, and Knockout and you have opinions.
 
-You're great with javascript, and you've built at least one production quality single page app.
+You're great with javascript, and you've built a production quality single page app.
 
 You're very comfortable with CSS and HTML, and not afraid of Photoshop.
 
