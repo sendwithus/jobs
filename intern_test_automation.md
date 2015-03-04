@@ -1,4 +1,4 @@
-# Intern: QA and Automation &ndash; Integrations Team
+# Testing Automation Intern
 
 _Sendwithus HQ, Victoria BC_
 
@@ -6,13 +6,13 @@ Our customers trust us with an incredibly important piece of their product &mdas
 
 And we take that responsibility very seriously.
 
-You'll help step our game up by writing self-sustaining and continuous testing systems for our high-throughput email pipeline and integrations.
+You'll help step our game up by writing self-sustaining and continuous testing systems for our high-throughput API.
 
-You'll run the project from start to finish and work directly with our integrations team.
+You'll run the project from start to finish and work directly with our integrations and backend team.
 
 __Who are you?__
 
-You have a GitHub account and read Hacker News.
+You have a GitHub account and know what Hacker News is.
 
 You've worked with a few different REST APIs.
 
