@@ -1,4 +1,4 @@
-# Tech Lead &ndash; Frontend
+# Technical Lead, Frontend
 
 _Sendwithus HQ, Victoria BC_
 
