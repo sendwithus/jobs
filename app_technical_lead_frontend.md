@@ -1,6 +1,6 @@
 # Technical Lead, Frontend
 
-__Sendwithus HQ, Victoria BC__
+_Sendwithus HQ, Victoria BC_
 
 We're looking for an experienced frontend web developer to help design and architect our customer facing applications. 
 
