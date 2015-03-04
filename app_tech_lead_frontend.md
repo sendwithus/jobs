@@ -11,15 +11,13 @@ working closely with designers and product to make sure everything runs smooth a
 
 __Who are you?__
 
-You have a GitHub account and read Hacker News.
+You have a GitHub account and know what Hacker News is.
 
 You know about React, Angular, and Ember and you have opinions on when to use each.
 
-You're great at javascript, and you've built at least one production quality single page app.
+You're great with javascript, and you've built at least one production quality single page app.
 
-You're very comfortable with CSS and HTML. You're not afraid of Photoshop.
-
-You understand the important role visual design plays in customer experience.
+You're very comfortable with CSS and HTML, and not afraid of Photoshop.
 
 You've used static website generators and deployment systems.
 
