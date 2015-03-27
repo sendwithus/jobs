@@ -6,7 +6,7 @@ Sendwithus is looking for a People Operations Lead.  We are looking for someone 
  
 **Who are you?**  
  
-You are organized, friendly and love being involved in multiple parts of a company. You are not afraid of a fast-paced environment. You thrive in multi-tasking and have no problem completing check-lists of administrative tasks. You are confident with your skills to juggle multiple projects, and still remember who last borrowed the stapler. You love technology and are interested in making administrative processes easier and smarter.  You think of ways to make a team more efficient, productive, and happy!
+You are organized, friendly and love being involved in multiple parts of a company. You are not afraid of a fast-paced environment. You thrive in smart multi-tasking and have no problem completing check-lists of administrative tasks. You are confident with your skills to juggle multiple projects, and still remember who last borrowed the stapler. You love technology and are interested in making administrative processes easier and smarter.  You think of ways to make a team more efficient, productive, and happy!
  
 We are excited to grow a team in Victoria because of its growing startup tech community. You believe that a great company can help grow community to its fullest potential. Local tech events, meetups and initiatives excite you to the point where you want to lead your own. You enjoy building relationships with not just your team, but also the surrounding community. You are a fast learner, natural problem solver, and love the hustle.
  
