@@ -38,7 +38,7 @@ We are excited to grow a team in Victoria because of its thriving startup tech c
 * Correspond with students (typically capstone projects and student clubs)  
 * Assist with recruitment-related activities  
 
-*Requirements*  
+**Requirements**  
 
 * Experience in event planning, office management, and bookkeeping  
 * Self-motivated, flexible and interested in working in a fast-paced startup environment  
