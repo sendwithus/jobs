@@ -62,4 +62,4 @@ We are excited to grow a team in Victoria because of its growing startup tech co
 * Extended healthcare benefits  
 * The feeling that you are contributing to the success of a growing team  
 
-**Interested?** Tell us why. Please introduce yourself in a short one-minute video clip. Please email [jobs at sendwithus dot com](mailto:jobs@sendwithus.com) and attach your resume or LinkedIn. 
+**Interested?** Tell us why. Please introduce yourself at [jobs at sendwithus dot com](mailto:jobs@sendwithus.com) and attach your resume or LinkedIn. 
