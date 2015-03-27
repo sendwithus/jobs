@@ -13,6 +13,7 @@ We are excited to grow a team in Victoria because of its growing startup tech co
 **Responsibilities**  
  
 *Office Management*  
+
 * Manage all aspects of the Victoria office, from general administrative duties to creating a great place to work  
 * Order and manage all office supplies  
 * Maintain a clean, organized, functional, and comfortable office space   
@@ -24,18 +25,21 @@ We are excited to grow a team in Victoria because of its growing startup tech co
 * Other duties and errands, as required  
  
 *Operations*  
+
 * General bookkeeping (we use Xero)  
 * Gather and file paper-copy receipts, invoices, etc.  
 * Coordinate with third-party services for payroll, extended health benefits etc.  
 * Help new employees get up to speed to be productive  
  
 *Community*  
+
 * Connect with community stakeholders and events (ex. Victoria Startup Drinks, local developer events/hackathons, etc.)  
 * Maintain relationship with local universities and colleges and schedule events or guest lectures when requested  
 * Correspond with students (typically capstone projects and student clubs)  
 * Assist with recruitment-related activities  
 
 *Requirements*  
+
 * Experience in event planning, office management, and bookkeeping  
 * Self-motivated, flexible and interested in working in a fast-paced startup environment  
 * Comfortable with learning new technologies  
@@ -48,6 +52,7 @@ We are excited to grow a team in Victoria because of its growing startup tech co
 * Post-secondary education or equivalent life experience  
 
 **Bonus Points**  
+
 * Prior tech company or startup experience  
 * Basic accounting experience  
 * Small to large scale event planning  
@@ -55,7 +60,8 @@ We are excited to grow a team in Victoria because of its growing startup tech co
 * Not afraid of HTML/CSS or Markdown.  
 * Not afraid of sarcasm  
  
-**What is in it for you?**    
+**What is in it for you?**  
+
 * Opportunity to join an early stage startup  
 * Learning and growth opportunities  
 * Downtown Victoria location  
