@@ -8,29 +8,18 @@ We're looking for someone brilliant and organized to lead operations at Sendwith
 You'll be responsible for the day-to-day administration, general bookkeeping, and operations of our Victoria office. You will also be our community advocate, helping us contribute to and represent the Victoria tech community.
 
 
-
 __Who are you?__
 
-You are organized, outgoing, and happy wearing many hats.
-
-You thrive in a fast-paced environment.
-
-You excel at prioritizing and completing check-lists of administrative tasks.
-
-You can juggle multiple projects and still remember who borrowed the stapler last.
-
-You love trying new technology.
-
-You make a team more efficient, more productive, and happier.
-
-You believe that a great company can help grow the community around it.
-
-You enjoy building relationships with both your team and the surrounding community.
-
-You can get things done on any budget.
-
-You are a fast learner, natural problem solver, and love to hustle.
-
+* You are organized, outgoing, and happy wearing many hats.
+* You thrive in a fast-paced environment.
+* You excel at prioritizing and completing check-lists of administrative tasks.
+* You can juggle multiple projects and still remember who borrowed the stapler last.
+* You love trying new technology.
+* You make a team more efficient, more productive, and happier.
+* You believe that a great company can help grow the community around it.
+* You enjoy building relationships with both your team and the surrounding community.
+* You can get things done on any budget.
+* You are a fast learner, natural problem solver, and love to hustle.
 
 
 __What will you be doing?__
