@@ -36,7 +36,7 @@ __Our Stack__
 
 Our current dashboard is a large single page app, built with Javascript, Coffescript, Less, and KnockoutJS. We deploy frequently using Grunt, S3, Cloudfront, and Heroku. We use Bootstrap and a CSS library for defining UI look, feel and style.
 
-Our application backend is primarily Python, using Django and Postgres and also hosted on Heroku.
+Our application backend is primarily Python, using Django and Postgres hosted on Heroku.
 
 
 __Apply__
