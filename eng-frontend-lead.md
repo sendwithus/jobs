@@ -1,6 +1,6 @@
-# Lead Frontend Engineer
+# Lead Engineer, Frontend
 
-_Sendwithus HQ, Victoria BC_
+_Victoria BC, Full-Time_
 
 We're looking for an experienced frontend web developer to help architect and lead our customer facing applications. 
 
