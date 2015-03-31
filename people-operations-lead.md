@@ -1,9 +1,11 @@
 # People Operations Lead
 
 
-_Sendwithus HQ, Victoria BC_
+_Victoria BC, Full-Time_
 
 We're looking for someone brilliant and organized to lead operations at Sendwithus.
+
+<!-- more -->
 
 You'll be responsible for the day-to-day administration, general bookkeeping, and operations of our Victoria office. You will also be our community advocate, helping us contribute to and represent the Victoria tech community.
 
