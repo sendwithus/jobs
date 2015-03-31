@@ -1,8 +1,10 @@
-# Technical Lead, Frontend
+# Lead Frontend Engineer
 
 _Sendwithus HQ, Victoria BC_
 
-We're looking for an experienced frontend web developer to help design and architect our customer facing applications. 
+We're looking for an experienced frontend web developer to help architect and lead our customer facing applications. 
+
+<!-- more -->
 
 You'll be reponsible for architecture and technical design of all user facing applications, including our primary UI (the sendwithus dashboard), landing pages, and other public resources.
 
@@ -34,7 +36,7 @@ __What will you be doing?__
 
 __Our Stack__
 
-Our current dashboard is a large single page app, built with Javascript, Coffescript, Less, and KnockoutJS. We deploy frequently using Grunt, S3, Cloudfront, and Heroku. We use Bootstrap and a CSS library for defining UI look, feel and style.
+Our current dashboard is a large single-page app built with Javascript, Coffescript, Less, and KnockoutJS. We deploy frequently using Grunt, S3, Cloudfront, and Heroku. We use Bootstrap and a CSS library for defining UI look, feel and style.
 
 Our application backend is primarily Python, using Django and Postgres hosted on Heroku.
 
