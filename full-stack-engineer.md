@@ -6,7 +6,7 @@ We're looking for a full stack engineer to help architect new application featur
 
 <!-- more -->
 
-As an early engineer, you'll be on the ground floor of a rapidly growing startup. You'll learn the ins and outs of scaling a product people love, while building a billion dollar company.
+As an early engineer, you'll be on the ground floor of a rapidly growing startup. You'll learn the ins and outs of scaling a product people love while building a billion dollar company.
 
 This is a high-impact, high-opportunity technical role. You'll be working with modern technologies to build a product that's scaling daily. You'll be talking with actual customers to build features that make a real difference. 
 
@@ -26,7 +26,7 @@ __Who are you?__
 
 __What will you be doing?__
 
-* Designing and building new application features.
+* Working with our engineering team to designing, build and scale new application features.
 * Making high-level technical decisions about data architecture and best practices.
 * Identifying application performance problems and creating solutions.
 * Separating our primary app into separate microservices.
