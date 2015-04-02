@@ -10,13 +10,13 @@ We're looking for motivated self-starters to help take our sales process to the 
 
 You'll be responsible for every aspect of the customer lifecycle; from prospecting and early relationship building, through to deal closing and account management.
 
-You'll be joining a small sales team, learning our existing processes and customer, and then figuring out how to make it better.
+You'll be joining a small sales team, learning our existing processes and customers, and then figuring out how to make them better.
 
 
 __Who are you?__
 
 * You have experience in sales, business or customer development at any level.
-* You are excited to join to small sales team and help it grow.
+* You are excited to join a small sales team and help it grow.
 * You are stoked to be working with customers ranging from Fortune 500 to one-person startups.
 * You believe in helping customers solve problems.
 * You want to own the customer relationship post-close, including account management.
