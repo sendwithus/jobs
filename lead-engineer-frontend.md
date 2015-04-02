@@ -2,7 +2,7 @@
 
 _Victoria BC, Full-Time_
 
-We're looking for an experienced frontend web developer to help architect and lead our customer facing applications. 
+We're looking for an experienced frontend web developer to help architect and lead our customer facing applications.
 
 <!-- more -->
 
@@ -13,14 +13,14 @@ This is not a content or design role; this is a high-impact, high-ownership tech
 
 __Who are you?__
 
-* You're great with javascript and have experience with production quality single-page apps.
+* You're great with javascript; you've built production quality single-page apps.
 * You ship code quickly; we deploy several times a day.
-* You have experience with modern javascript frameworks like React or Angular.
+* You have experience with modern javascript frameworks, such as React or Angular.
 * You're very comfortable with HTML and CSS, and not afraid of Photoshop.
 * You've used static website generators like Jekyll or Metalsmith.
-* You have a product-first approach to development; you care about how your code effects users.
+* You focus on product first; you care about how your code effects users.
 * You have an eye for design and are opinionated about user experience.
-* You are not afraid of backend code, in any language.
+* You are not afraid of backend code in any language.
 
 
 __What will you be doing?__
@@ -29,8 +29,8 @@ __What will you be doing?__
 * Making high-level technical decisions about architecture and best practices.
 * Building technical roadmaps and prioritizing frontend development projects.
 * Implementing new dashboard features in Javascript, HTML, and CSS.
-* Developing static website deployment systems. 
-* Talking directly with customers to learn common pain points and technical requirements.
+* Developing static website deployment systems.
+* Interacting with customers to learn common pain points and technical requirements.
 
 
 
@@ -38,7 +38,7 @@ __Our Stack__
 
 Our current dashboard is a large single-page app built with Javascript, Coffescript, Less, and KnockoutJS. We deploy frequently using Grunt, S3, Cloudfront, and Heroku. We use Bootstrap and a CSS library for defining UI look, feel and style.
 
-Our application backend is primarily Python, using Django and Postgres hosted on Heroku.
+Our backend is primarily Python, Django and Postgres, hosted on Heroku.
 
 
 __Apply__
