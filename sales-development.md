@@ -9,6 +9,7 @@ We're looking for motivated self-starters to help take our existing sales proces
 <!-- more -->
 
 You'll be responsible for all parts of the customer lifecycle; from deal closing and account management, all the way to prospecting and early relationship building.
+
 You'll be joining a small sales team, initially learning our existing processes and customer and eventually figuring out how to make it better.
 
 
