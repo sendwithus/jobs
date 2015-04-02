@@ -1,7 +1,7 @@
 # People Operations Lead
 
 
-_Victoria BC, Full-Time_
+_Victoria BC &middot; Full-Time_
 
 We're looking for someone brilliant and organized to lead operations at Sendwithus.
 
