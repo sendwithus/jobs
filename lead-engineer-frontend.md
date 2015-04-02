@@ -6,7 +6,7 @@ We're looking for an experienced frontend web developer to help architect and le
 
 <!-- more -->
 
-You'll be reponsible for architecture and technical design of all user facing applications, including our primary UI (the sendwithus dashboard), landing pages, and other public resources.
+You'll be responsible for architecture and technical design of all user facing applications, including our primary UI (the sendwithus dashboard), landing pages, and other public resources.
 
 This is not a content or design role; this is a high-impact, high-ownership technical opportunity. You'll be leading our frontend team and working closely with our product team to ensure everything runs smooth and looks great.
 
