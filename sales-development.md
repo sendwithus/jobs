@@ -18,7 +18,6 @@ __Who are you?__
 * You have experience in sales, business or customer development at any level.
 * You are excited to join a small sales team and help it grow.
 * You are stoked to be working with customers ranging from Fortune 500 to one-person startups.
-* You believe in helping customers solve problems.
 * You want to own the customer relationship post-close, including account management.
 * You are motivated by killer commissions.
 * You thrive in a fast-paced environment.
