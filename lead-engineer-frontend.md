@@ -1,6 +1,6 @@
 # Lead Engineer, Frontend
 
-_Victoria BC, Full-Time_
+_Victoria BC &middot; Full-Time_
 
 We're looking for an experienced frontend web developer to help architect and lead our customer facing applications.
 
