@@ -1,6 +1,6 @@
 # Full Stack Engineer
 
-_Victoria BC, Full-Time_
+_Victoria BC &middot; Full-Time_
 
 We're looking for a full stack engineer to help build new application features, scale our backend systems, and grow into a senior leader on our engineering team.
 
