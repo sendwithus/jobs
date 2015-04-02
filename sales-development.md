@@ -65,4 +65,4 @@ _Bonus Points_
 
 __Interested?__
 
-Tell us why. Email [jobs at sendwithus dot com](mailto:jobs@sendwithus.com) introducing yourself.
+Tell us why. Email [jobs at sendwithus dot com](mailto:jobs@sendwithus.com) introducing yourself. Make sure to include a short story about your greatest hack.
