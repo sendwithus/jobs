@@ -33,5 +33,5 @@ _Bonus Points_
 
 __Apply__
 
-Email [jobs at sendwithus dot com](mailto:jobs@sendwithus.com) introducing yourself. Be sure to include anything awesome you've built, your github, blog, website, resume, and so on.
+Email [jobs at sendwithus dot com](mailto:jobs@sendwithus.com) introducing yourself. Be sure to include anything awesome you've created or your github, blog, website, resume, and so on.
 
