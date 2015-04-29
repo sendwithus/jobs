@@ -1,7 +1,7 @@
 # Marketing Intern
 
 
-_San Francisco CA, Victoria BC &middot; Full-Time_
+_San Francisco CA, Victoria BC &middot; Summer Full-Time_
 
 We are looking for a summer marketing and communication design intern to help our growth team to create awesome content!   
 
