@@ -25,10 +25,13 @@ __What you’ll be doing__
 * Crafting A/B tests to identify and quantify improvements  
 * Generalizing what works and writing about it  
 
-__Who we are…__  
+_Bonus Points_
 
-We’re venture-backed, Canadian-born, and fresh out of Y Combinator (W14). We’re building a killer product development team in beautiful Victoria BC, with additional opportunities in San Francisco. We have a casual workplace environment with a dress code of mostly startup t-shirts and jeans. Since we are based on Vancouver Island, we love getting outside for hikes or other activities as a team. Most importantly – we bring the hustle and agility of a San Francisco startup to Canada. We work hard, get stuff done, and have tons of fun along the way.
- 
-__What is sendwithus…__   
+* Prior tech or startup experience.
+* Knowledge of the local tech community.
+* You're not scared of code or talking tech.
 
-Sendwithus is changing the way companies send email. Our core service is a simple REST API to send templated emails. Email templates live in our UI and can be updated and A/B tested in real-time, without code changes. We believe in user experience above all else, and use customer feedback to drive all product development. Our customers are hackers, marketers, startups, and enterprises alike.
+__Apply__
+
+Email [jobs at sendwithus dot com](mailto:jobs@sendwithus.com) introducing yourself. Be sure to include anything awesome you've built, your github, blog, website, resume, and so on.
+
