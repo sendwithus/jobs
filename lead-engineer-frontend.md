@@ -5,13 +5,33 @@
 
 _Victoria BC &middot; Full-Time_
 
-We're looking for an experienced frontend web developer to help architect and lead our customer facing applications.
+Sendwithus is a YC W2014 backed company looking for an amazing Lead Frontend Developer. We are a fun loving, hard working, and motivated team that loves to ship code and create amazing customer experiences. We want someone who can work with our team of developers and contribute to our lively team culture. We are a small start-up based in Victoria BC and San Francisco CA and we want that perfect person to grow and scale with us.
 
 <!-- more -->
 
-You'll be responsible for architecture and technical design of all user facing applications, including our primary UI (the sendwithus dashboard), landing pages, and other public resources.
+__What we do__ 
 
-This is not a content or design role; this is a high-impact, high-ownership technical opportunity. You'll be leading our frontend team and working closely with our product team to ensure everything runs smooth and looks great.
+Sendwithus is a powerful, easy to use dashboard and API that work together to help you design, test, and optimize 
+your transactional and marketing emails. Use our editor to make changes to your templates on the fly, set up A/B 
+tests, and see advanced downstream analytics - all without changing your code, or involving a developer.
+
+
+__What we offer__
+
+* Competitive salary + equity + benefits + vacation + parental leave.
+* Be challenged and rewarded as you lead all aspects of front-end development.
+* Rapid professional growth.
+* Work with an amazing team of like minded professionals/nerds.
+* Take part in annual company retreat (Whistler Party June 2015!).
+* Work hand-in-hand with our clients to solve real problems, create interesting features, and design beautiful UI.
+* Work with an amazing and passionate team of developers and enthusiasts.
+
+__What you do__
+
+Create and maintain architecture and technical design of all user facing applications. This means making our primary 
+UI (sendwithus dashboard), landing pages, & all other public resources easy to navigate and beautifully rendered.
+This is not a content or design role; this is a high-impact, high-ownership technical opportunity. You'll be leading 
+our front-end team and working closely with our product team to ensure everything runs smooth and looks great.
 
 
 __Who are you?__
@@ -29,21 +49,18 @@ __Who are you?__
 __What will you be doing?__
 
 * Leading technical design and implementation of our main dashboard application.
-* Making high-level technical decisions about architecture and best practices.
-* Building technical roadmaps and prioritizing frontend development projects.
+* Making high-level technical decisions about architecture and staying on top of cutting edge technology
+* Building technical roadmaps and prioritizing front-end development projects.
 * Implementing new dashboard features in Javascript, HTML, and CSS.
 * Developing static website deployment systems.
-* Interacting with customers to learn common pain points and technical requirements.
+* Interacting with customers to learn common roadblocks and technical requirements.
 
 
-
-__Our Stack__
-
-Our current dashboard is a large single-page app built with Javascript, Coffescript, Less, and KnockoutJS. We deploy frequently using Grunt, S3, Cloudfront, and Heroku. We use Bootstrap and a CSS library for defining UI look, feel and style.
-
-Our backend is primarily Python, Django and Postgres, hosted on Heroku.
 
 
 __Apply__
 
-Email [jobs at sendwithus dot com](mailto:jobs@sendwithus.com) introducing yourself. Be sure to include anything awesome you've built, your github, blog, website, resume, and so on.
+Email [jobs at sendwithus dot com](mailto:jobs@sendwithus.com) with a quick introduction, your online 
+portfolio/public Github account, CV, and anything else you want to showcase how awesome you are. We look forward to 
+meeting you and discussing your amazing abilities.
+
