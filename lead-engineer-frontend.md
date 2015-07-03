@@ -18,13 +18,13 @@ tests, and see advanced downstream analytics - all without changing your code, o
 
 __What we offer__
 
-* Competitive salary + equity + benefits + vacation + parental leave
-* Be challenged and rewarded as you lead all aspects of front-end development
-* Rapid professional growth
-* Work with an amazing team of like minded professionals/ tech nerds
-* Take part in annual company retreat (Went to Whistler for 2015)
-* Work hand-in-hand with our clients to solve real problems, create interesting features, and design beautiful UI
-* Work with an amazing and passionate team of developers and enthusiasts
+* Competitive salary + equity + benefits + vacation + parental leave.
+* Be challenged and rewarded as you lead all aspects of front-end development.
+* Rapid professional growth.
+* Work with an amazing team of like minded professionals/nerds.
+* Take part in annual company retreat (Whistler Party June 2015!).
+* Work hand-in-hand with our clients to solve real problems, create interesting features, and design beautiful UI.
+* Work with an amazing and passionate team of developers and enthusiasts.
 
 __What you do__
 
