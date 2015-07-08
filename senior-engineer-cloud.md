@@ -6,7 +6,7 @@ _Victoria BC &middot; Full-Time_
 
 We're looking for an experienced engineer to design our cloud architecture, scale our backend systems, and grow into a senior leader on our engineering team.
 
-As an early employee, you'll be joining a rapidly growing startup to design and scale a product people love. This is a high-impact, high-opportunity technical role. You'll be working with modern technologies to build a high performance services, and tou'll be talking with actual customers to learn what matters most.
+As an early employee, you'll be joining a rapidly growing startup to design and scale a product people love. This is a high-impact, high-opportunity technical role. You'll be working with modern technologies to build a high performance service, and you will be talking with actual customers to learn what matters most.
 
 <!-- more -->
 
@@ -16,7 +16,7 @@ __Who are we?__
 
 Sendwithus is a Y Combinator backed company founded in 2013. We are a fun loving, hard working, and motivated team that loves to ship code and create amazing customer experiences. We want someone who can work with our team of developers and contribute to our lively team culture.
 
-We have offices in Victoria BC and San Francisco CA and we're looking for expectional individuals to join our team.
+We have offices in Victoria BC and San Francisco CA and we're looking for expectional individuals to join us.
 
 
 
@@ -59,9 +59,9 @@ __What will you be doing?__
 
 __Our Stack__
 
-Our primary application is built using Python and Django and is hosted on Heroku. We use Postgres, Redis, and DynamoDB to store most of our data, and prefer using hosted services whenever feasible.
+Our primary application is built using Python and Django and is hosted on Heroku. We use Postgres, Redis, and DynamoDB to store most of our data, and prefer to use hosted services whenever feasible.
 
-We've begun moving smaller systems into separate microservices, written in Go. Our team is committed to using Go for more system tasks as we continue to scale.
+We've begun moving smaller systems into separate microservices written in Go. Our team is committed to using Go for more system tasks as we continue to scale.
 
 
 
