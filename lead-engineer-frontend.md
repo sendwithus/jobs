@@ -15,16 +15,14 @@ __Who are we?__
 
 We are a fun loving, hard working, and motivated team that loves to ship code and create amazing customer experiences. We want someone who can work with our team of developers and contribute to our lively team culture.
 
-We have offices in Victoria BC and San Francisco CA and we're looking for expectional individuals to join our team.
+We have offices in Victoria BC and San Francisco CA and we're looking for expectional individuals to join us.
 
 
 
 __What we do?__
 
-Sendwithus is a powerful, easy to use dashboard and API that work together to help large companies design, test, and optimize
-their transactional and automated emails. Use our editor to make changes to your templates on the fly, set up A/B
-tests, and see advanced downstream analytics - all without changing your code or involving a developer.
-
+Sendwithus is a powerful, easy to use dashboard and API that work together to help large companies design, test, 
+and optimize their transactional and automated emails. Use our editor to make changes to your templates on the fly, set up A/B tests, and see advanced downstream analytics - all without changing your code or involving a developer.
 
 
 __What do we offer?__
@@ -33,7 +31,7 @@ __What do we offer?__
 * Be challenged and rewarded as you lead all aspects of frontend development.
 * Rapid professional growth.
 * Work with an amazing team of like minded professionals/nerds.
-* Take part in annual company retreat (Whistler Party June 2015!).
+* Take part in our annual company retreat (Whistler Party June 2015!).
 * Work hand-in-hand with our clients to solve real problems, create powerful features, and build beautiful UI.
 
 
@@ -64,7 +62,7 @@ __What will you be doing?__
 
 __Our Stack__
 
-Our primary UI is a single-page app using KnockoutJS. Our application backend uses Python and Django and is hosted on Heroku. We use Postgres, Redis, and DynamoDB to store most of our data, and prefer using hosted services whenever feasible.
+Our primary UI is a single-page app using KnockoutJS. Our application backend uses Python and Django and is hosted on Heroku. We use Postgres, Redis, and DynamoDB to store most of our data, and prefer to use hosted services whenever feasible.
 
 Our landing pages and static resources are built using Jekyll and deployed using to S3 and Cloudfront.
 
