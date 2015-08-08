@@ -21,26 +21,24 @@ We have offices in Victoria BC and San Francisco CA and we're looking for except
 
 __What we do?__
 
-Sendwithus is a powerful, easy to use dashboard and API that work together to help large companies design, test, 
-and optimize their transactional and automated emails. Use our editor to make changes to your templates on the fly, set up A/B tests, and see advanced downstream analytics - all without changing your code or involving a developer.
+Sendwithus is a powerful, easy to use dashboard and API that work together to help large companies design, test, and optimize their transactional and automated emails. Use our editor to make changes to your templates on the fly, set up A/B tests, and see advanced downstream analytics - all without changing your code or involving a developer.
 
 
 __What do we offer?__
 
-* Competitive salary + equity + benefits + vacation + parental leave.
+* Competitive salary + equity + benefits.
 * Be challenged and rewarded as you lead all aspects of frontend development.
 * Rapid professional growth.
-* Work with an amazing team of like minded professionals/nerds.
+* Work with an amazing team of like minded hackers/nerds.
+* Interact with our customers to solve real problems, create powerful features, and build beautiful UI.
 * Take part in our annual company retreat (Whistler Party June 2015!).
-* Work hand-in-hand with our clients to solve real problems, create powerful features, and build beautiful UI.
-
 
 
 __Who are you?__
 
 * You're great with javascript; you've built production quality single-page apps.
 * You ship code quickly; we deploy several times a day.
-* You have experience with modern javascript frameworks, such as React or Angular.
+* You have experience with modern javascript frameworks such as React or Angular.
 * You're very comfortable with HTML and CSS, and not afraid of Photoshop.
 * You've used static website generators like Jekyll or Metalsmith.
 * You focus on product first; you care about how your code effects users.
