@@ -1,10 +1,10 @@
-Senior Engineer, Cloud Architecture
+Senior Engineer, Infrastructure
 ===
 
 
 _Victoria BC &middot; Full-Time_
 
-We're looking for an experienced engineer to design our cloud architecture, scale our backend systems, and grow into a senior leader on our engineering team.
+We're looking for an experienced engineer to design our infrastructure, scale our backend systems, and grow into a senior leader on our engineering team.
 
 As an early employee, you'll be joining a rapidly growing startup to design and scale a product people love. This is a high-impact, high-opportunity technical role. You'll be working with modern technologies to build a high performance service, and you will be talking with actual customers to learn what matters most.
 
@@ -22,26 +22,25 @@ We have offices in Victoria BC and San Francisco CA and we're looking for expect
 
 __What do we offer?__
 
-* Competitive salary + equity + benefits + vacation + parental leave.
+* Competitive salary + equity + benefits.
 * Be challenged and rewarded as you take a lead role in our engineering team.
 * Rapid professional growth.
-* Work with an amazing team of like minded professionals/nerds.
-* Fun team culture - annual team retreat, group lunches, birthday fests.
+* Work with an amazing team of like minded hackers/nerds.
 * Unique experiences working with our customer base to solve problems.
 * Collaborative approach to solving problems and creating new features.
+* Fun team culture - annual team retreat, group lunches, birthday fests.
 
 
 
 __Who are you?__
 
-* You have 4+ years of experience building distributed web applications.
-* You ship code quickly; we deploy frequently.
-* You have experience with modern system technologies (Go, Heroku, Redis, Postgres, AWS, CoreOS, etc.)
+* You have 2+ years of experience building distributed web applications.
+* You ship code quickly; we deploy daily.
+* You have experience with modern system technologies and databases (Go, Heroku, Redis, Postgres, AWS, CoreOS, etc.)
 * You can scale a production web app beyond a single server.
 * You're excited by large systems and scalable databases.
-* You're comfortable with HTML, CSS and Javascript.
 * You're a self-starter; if you see a problem, you'll find a way to fix it.
-* You focus on product first; you care about how your code affects users.
+* You focus on product first; you care about how infrastructure affects users.
 * You're passionate about startups and want to join a small company trying to take over the world.
 
 
@@ -49,7 +48,7 @@ __Who are you?__
 __What will you be doing?__
 
 * Working with our engineering team to design, build and scale platform features.
-* Making high-level technical decisions about architecture and new technologies.
+* Making high-level technical decisions about architecture and database design.
 * Identifying performance problems and crafting creative solutions.
 * Experimenting with new technologies and solutions.
 * Separating our primary app into separate microservices.
