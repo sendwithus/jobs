@@ -13,7 +13,7 @@ __Who are we?__
 
 Sendwithus is a Y Combinator backed company, founded in 2013. We are a fun loving, hard working, and motivated team that loves to ship code and create amazing customer experiences. We want someone who can work with our product and support teams and contribute to our lively team culture.
 
-We have offices in Victoria BC and San Francisco CA and we’re looking for expectional individuals to join us.
+We have offices in Victoria BC and San Francisco CA and we’re looking for exceptional individuals to join us.
 
 __What do we do?__
 
