@@ -1,11 +1,9 @@
-Junior Technical Writer
+Web Designer
 ===
 
-_Victoria BC &middot; Full-Time / Part-Time_
+_San Francisco CA &middot; Full-Time / Part-Time_
 
-We're looking for a Junior Technical Writer to dazzle us and our customers with shakespearean writing skills.
-
-As an early employee, you'll be joining a rapidly growing startup to help ensure our customers can get up and running quickly, with as few road-blocks as possible. This is a high-impact, high-opportunity role. You'll be working with modern support and documentation technologies to build the best possible customer experiences.
+We are looking for a creative and ambitious Web Designer to join our team. You will work closely with our marketing and sales teams to bring their ideas to life. This is a high impact role that will see your creative juices put to the test to drive traffic and create leads for our sales team
 
 <!-- more -->
 
@@ -21,37 +19,36 @@ Sendwithus is a powerful set of tools for communicating with your customers thro
 
 __What do we offer?__
 
-* Competitive salary + equity + benefits
+* Competitive salary + equity + benefits + parental leave
 * Be a part of a challenging yet rewarding work environment that promotes self direction
-* * Interact directly with our customers to solve real problems
 * Rapid professional growth
-* Work with an amazing team of like minded hackers and tech nerds
+* Work with an amazing team of hackers and tech nerds
 * Access to educational resources and tools
 
 __What will you bring?__
 
-* The ability to write in a clear and concise manner
-* You can break down complex technical concepts into easily understandable text with supporting images
-* You are familiar with Markdown/HTML/CSS
-* You stay up to date with great pieces of technical writing
-* You know what makes technical writing great (and what makes it useless)
-* You have a keen eye for detail
+* You have 2+ years of web design experience
+* Photoshop (or equivalent) is one of your many tools of creation
+* You are familiar with HTML/C++
+* You want to get involved with a startup
+* You believe good design means it works for users
+* BONUS- you have experience writing copy for web pages or blog posts
 
 __What will you be doing?__
 
-* Creating Sendwithus support documentation and tutorial content
-* Updating existing API documentation
-* Making UX/UI improvements to our support content
-* Working with our Customer Success team and customers to alleviate common roadblocks
+* Designing landing pages that go live the same day
+* Designing both Campaign and Transactional Emails
+* Evaluate and recommend optimizations for existing pages
+* Design initial instrumentation for marketing sites
+* Creating marketing assets for presentations and blog posts
 
 __Bonus points if you have...__
 
-* Experience working with static website generators (such as Jekyll)
-* Experience with REST APIs
-* A technical blog or other technical writing examples
+* Prior tech or startup experience
+* You are not scared of code and talking shop
 
 __Apply__
 
-Email jobs@sendwithus.com with a quick introduction, your resume, and anything else you want to showcase how awesome you are. 
+If you can say "YES" to most of these points contact us at jobs@sendwithus.com with a quick introduction, your resume, some examples of web design (mockups or full sites), examples of assets designed, a Dribbble and/or Github profile and any other resources you would like us to see. 
 
 We look forward to meeting you and discussing your amazing abilities!
