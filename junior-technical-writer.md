@@ -29,7 +29,7 @@ __What will you bring?__
 
 * You have 2+ years of web design experience
 * Photoshop (or equivalent) is one of your many tools of creation
-* You are familiar with HTML/C++
+* You are familiar with HTML/CSS
 * You want to get involved with a startup
 * You believe good design means it works for users
 * BONUS- you have experience writing copy for web pages or blog posts
