@@ -23,7 +23,7 @@ __What do we offer?__
 * Competitive salary + equity + benefits
 * Be challenged and rewarded as you take an early role in our engineering team
 * Rapid professional and technical growth
-* Oppurtunities to attend Tech conferences
+* Opportunities to attend Tech conferences
 * Work with an amazing team of like minded hackers &amp; nerds
 * Unique experiences working with our customer base to solve problems
 * Collaborative approach to solving problems and creating new features
