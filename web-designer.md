@@ -1,7 +1,7 @@
 Web Designer
 ===
 
-_San Francisco CA &middot; Full-Time / Part-Time_
+_San Francisco CA & Victoria BC; Full-Time / Part-Time_
 
 We are looking for a creative and ambitious Web Designer to join our team. You will work closely with our marketing and sales teams to bring their ideas to life. This is a high impact role that will see your creative juices put to the test to drive traffic and create leads for our sales team
 
