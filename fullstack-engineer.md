@@ -27,7 +27,7 @@ __What do we offer?__
 * Work with an amazing team of like minded hackers &amp; nerds
 * Unique experiences working with our customer base to solve problems
 * Collaborative approach to solving problems and creating new features
-* Rekaxed culture - team retreats, group lunches, birthday fests, office snacks
+* Relaxed culture - team retreats, group lunches, birthday fests, office snacks
 
 
 
@@ -36,7 +36,7 @@ __Who are you?__
 * Have 2+ years of experience building web applications
 * Ship code quickly; we deploy daily
 * Have experience with modern web technologies (Python, Go, Heroku, Postgres, Django, Grunt, React, etc)
-* Can confidently jump between frontend Javascipt and backend SQL
+* Can confidently jump between frontend Javascript and backend SQL
 * Excited by large systems and challenging UI
 * Self-starter; if you see a problem, you’ll find a way to fix it
 * Product focused; you care about users and customer experience above all else
