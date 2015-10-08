@@ -6,7 +6,7 @@ __Victoria BC &middot; Full-Time__
 
 We’re looking for an experienced full stack engineer who can help design and implement new product features, scale backend systems, and grow into a technical leader on our engineering team.
 
-As an early employee, you’ll be joining a rapidly growing startup to design and scale a product people love. This is a high-impact, high-opportunity technical role. You’ll be working with modern technologies to build a powerful service for a growing customer base. This is a front-line role that will have you interacting with customers, identifying common pain points and working with the product and engineering team to create an amazing customer experience.
+As an early employee, you’ll be joining a rapidly growing startup to design and scale a product people love. This is a high-impact, high-opportunity technical role with room for individual input and creativity. You will be working with modern technologies to build a powerful service for a growing customer base. This is a front-line role that will have you interacting with customers, identifying common pain points and working with the product and engineering team to create an amazing customer experience.
 
 <!-- more -->
 
@@ -14,7 +14,7 @@ As an early employee, you’ll be joining a rapidly growing startup to design an
 
 __Who are we?__
 
-Sendwithus is a Y Combinator backed company, founded in 2013. We are a fun loving, hard working, and motivated team that loves to ship code and delight our customers. We are looking for an awesome engineer that will contribute to our team, work with our junior engineers, and have fun while working on challenging fullstack problems.
+Sendwithus is a Y Combinator backed company, founded in 2013 in Victoria BC. We are a fun loving, hard working, and motivated team that loves to ship code and delight our customers. We are looking for an awesome engineer that will contribute to our team, work with our junior engineers, and have fun while challenging fullstack problems.
 
 
 
@@ -22,11 +22,12 @@ __What do we offer?__
 
 * Competitive salary + equity + benefits
 * Be challenged and rewarded as you take an early role in our engineering team
-* Rapid professional growth
+* Rapid professional and technical growth
+* Oppurtunities to attend Tech conferences
 * Work with an amazing team of like minded hackers &amp; nerds
 * Unique experiences working with our customer base to solve problems
 * Collaborative approach to solving problems and creating new features
-* Fun team culture - team retreats, group lunches, birthday fests, office snacks
+* Rekaxed culture - team retreats, group lunches, birthday fests, office snacks
 
 
 
