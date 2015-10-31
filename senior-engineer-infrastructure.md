@@ -2,7 +2,7 @@ Senior Engineer, Infrastructure
 ===
 
 
-_Victoria BC &middot; Full-Time_
+__Victoria BC &middot; Full-Time__
 
 We're looking for an experienced engineer to design our infrastructure, scale our backend systems, and grow into a senior leader on our engineering team.
 

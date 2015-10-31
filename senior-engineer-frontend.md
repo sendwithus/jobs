@@ -1,7 +1,8 @@
-Lead Engineer, Frontend App
+Senior Engineer, Frontend App
 ===
 
-_Victoria BC &middot; Full-Time_
+
+__Victoria BC &middot; Full-Time__
 
 Sendwithus is a Y Combinator company looking for an amazing Frontend Developer to lead our app team. You'll be responsible for architecture and technical design of all user facing applications including our primary UI, landing pages, and all other public resources.
 
