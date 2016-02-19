@@ -1,12 +1,13 @@
 Demand Generation Marketer
 ===
 
-
 __San Francisco CA &middot; Full Time__
 
 As our Demand Gen Marketer, you will be in charge of developing and implementing our B2B and enterprise demand generation strategy. We are looking for an experienced enterprise Demand Gen professional who can build a strategy from the ground-up while working with our sales and product teams. 
 
 The ideal candidate will bring expertise around funnel growth and pipeline optimization as we scale aggressively. You know how to create content and copyright. You can hit the ground running, as a small start-up we expect candidates to be able to act quickly and decisively. As our Demand Gen Marketer you are expected to take ownership of this position to steer growth.
+
+<!-- more -->
 
 __Benefits__
 
