@@ -23,9 +23,10 @@ We have offices in Victoria BC and San Francisco CA and we're looking for except
 __What do we offer?__
 
 * Competitive salary + equity + benefits.
+* Flexible work hours
 * Be challenged and rewarded as you lead all aspects of frontend development.
 * Rapid professional growth.
-* Work with an amazing team of like minded hackers/nerds.
+* Work with an amazing team of like minded developers.
 * Interact with our customers to solve real problems, create powerful features, and build beautiful UI.
 * Take part in our annual company retreat (Whistler Party June 2015!).
 
@@ -37,9 +38,9 @@ __Who are you?__
 * You have experience with modern javascript frameworks such as React or Angular.
 * You're very comfortable with HTML and CSS, and not afraid of Photoshop.
 * You've used static website generators like Jekyll or Metalsmith.
-* You focus on product first; you care about how your code effects users.
+* You focus on product first; you care about how your code affects users.
 * You have an eye for design and are opinionated about user experience.
-* You are not afraid of backend code in any language.
+* You adaptable of backend code in any language.
 
 
 
