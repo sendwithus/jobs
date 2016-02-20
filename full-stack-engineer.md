@@ -6,7 +6,7 @@ __Victoria BC &middot; Full-Time__
 
 We’re looking for an experienced full stack engineer to help design and implement new product features, scale backend systems, and grow into a technical leader on our engineering team.
 
-As an early employee, you’ll be joining a rapidly growing startup to design and scale a product people love. This is a high-impact, high-opportunity technical role with room for individual input and creativity. You will be working with modern technologies to build a powerful service for a growing customer base. This is a front-line role that will have you interacting with customers, identifying common pain points and working with the product and engineering team to create an amazing customer experience.
+As an early employee, you’ll be joining a rapidly growing startup to design and scale a product that people love. This is a high-impact, high-opportunity technical role with room for individual input and creativity. You will be working with modern technologies to build a powerful service for a growing customer base. This is a front-line role that will have you interacting with customers, identifying common pain points, and working with the product and engineering team to create an amazing customer experience.
 
 <!-- more -->
 
@@ -26,6 +26,7 @@ __What do we offer?__
 * Work with an amazing team of like minded hackers &amp; nerds
 * Unique experiences working with our customer base to solve problems
 * Collaborative approach to solving problems and creating new features
+* Flexible work hours
 * Relaxed culture - team retreats, group lunches, birthday fests, office snacks
 
 
