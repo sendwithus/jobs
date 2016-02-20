@@ -40,7 +40,6 @@ __What will you be doing?__
 
 
 __Our Stack__
-ada
 Our primary UI is a single page JavaScript application powered by KnockoutJS. Our main application servers are written in Python and Django, and run on Heroku. We use PostgreSQL, Redis, and DynamoDB to store hundreds of gigabytes each day.
 
 As we grow, we've begun to explore new frontend technologies, such as AngularJS and React. We've also begun moving pieces of our infrastructure from Python to Go, primarily for performance.
