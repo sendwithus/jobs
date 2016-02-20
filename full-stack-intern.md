@@ -23,7 +23,7 @@ __Who are you?__
 * You have a GitHub account and know what Hacker News is.
 * You've worked with a few different REST APIs.
 * You love huge numbers and fancy performance graphs.
-* You're not afraid of learning new programming languages.
+* You're adaptable to learning new programming languages.
 * You love when a well designed system comes to life.
 * You're never satisfied with mediocre code.
 
@@ -47,6 +47,6 @@ As we grow, we've begun to explore new frontend technologies, such as AngularJS 
 
 __Apply__
 
-Email [jobs@sendwithus.com](mailto:jobs@sendwithus.com) introducing yourself. Bonus points for providing links to code you're written and/or technical projects you're passionate about.
+Email [jobs@sendwithus.com](mailto:jobs@sendwithus.com) introducing yourself. We encourage you to provide links to code you're written and/or technical projects you're passionate about.
 
 We look forward to meeting you!
