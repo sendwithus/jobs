@@ -40,7 +40,7 @@ __Who are you?__
 * You've used static website generators like Jekyll or Metalsmith.
 * You focus on product first; you care about how your code affects users.
 * You have an eye for design and are opinionated about user experience.
-* You adaptable of backend code in any language.
+* You can adapt to backend code in any language.
 
 
 
