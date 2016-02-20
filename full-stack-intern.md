@@ -23,7 +23,7 @@ __Who are you?__
 * You have a GitHub account and know what Hacker News is.
 * You've worked with a few different REST APIs.
 * You love huge numbers and fancy performance graphs.
-* You're adaptable to learning new programming languages.
+* You can quickly adapt to new programming languages.
 * You love when a well designed system comes to life.
 * You're never satisfied with mediocre code.
 
@@ -40,7 +40,7 @@ __What will you be doing?__
 
 
 __Our Stack__
-
+ada
 Our primary UI is a single page JavaScript application powered by KnockoutJS. Our main application servers are written in Python and Django, and run on Heroku. We use PostgreSQL, Redis, and DynamoDB to store hundreds of gigabytes each day.
 
 As we grow, we've begun to explore new frontend technologies, such as AngularJS and React. We've also begun moving pieces of our infrastructure from Python to Go, primarily for performance.
