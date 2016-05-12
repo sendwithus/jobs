@@ -1,11 +1,13 @@
-Full Stack Engineer Intern
+Full Stack Engineering Intern
 ===
 
 
 __Victoria BC &middot; Full-Time__
 
 We’re looking for an aspiring full stack engineer to help design and implement new product features, and scale backend systems.
+
 As an intern at a rapidly growing startup, you'll be deeply involved in designing and scaling a service our customers love. This is a high-impact, high-opportunity technical role with room for individual input and creativity.
+
 You'll have opportunities to learn modern technologies, interact with customers, and work with the product engineering team to create amazing customer experiences.
 
 
