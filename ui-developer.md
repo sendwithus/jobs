@@ -1,4 +1,4 @@
-UI Developer
+User Interface Developer
 ===
 
 
@@ -17,6 +17,7 @@ Sendwithus is a Y Combinator backed company, founded in 2013 in Victoria BC with
 With flexible work hours, snacks, lunches and a friendly and open environment we are always looking for new people to join our team.
 
 __Qualifications, Skills, &amp; Experience__
+
 * Firm grasp of HTML, CSS, and Javascript.
 * Detail oriented, focus on product first & care about how your code affects users.
 * Production experience with Javascript frameworks and modern technologies.
@@ -25,11 +26,13 @@ __Qualifications, Skills, &amp; Experience__
 * Able to deliver on results independently.
 
 __Bonus__
+
 * You are able to navigate backend code.
 * You have design experience.
 * You have experience working directly with customers.
 
 __Benefits/Perks__
+
 * Equity + benefits + parental leave + gym/wellness program.
 * Flexible Schedule.
 * Rapid professional growth.
@@ -38,6 +41,7 @@ __Benefits/Perks__
 * Travel between Canadian & US offices.
 
 __Applications__
+
 If you think you check off most or all of the above then email [jobs at sendwithus dot com](mailto:jobs@sendwithus.com) with an introduction, a passionate project of yours, an online portfolio/ Github account, CV, and anything else you would like us to know about you.
 
 We look forward to meeting you!
