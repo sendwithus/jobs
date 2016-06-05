@@ -41,8 +41,8 @@ __Great Candidates Will Be Passionate About...__
 
 * Large software systems and challenging scaling problems
 * How software is designed, built, and deployed
-* Constantly improving software quality and performance
-* Startups and growth focused teams
+* Constantly improving engineering practices and overall team effectiveness
+* Startups and growth focused SaaS products
 * Technical leadership at a senior level
 
 
