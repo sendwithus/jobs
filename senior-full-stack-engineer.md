@@ -48,7 +48,7 @@ __Great Candidates Will Be Passionate About...__
 
 __Why Sendwithus?__
 
-* Competitive salary and employee stock options.
+* Competitive salary, employee stock options, and a great team who works well together.
 * Team driven. We believe the best solutions come from a diverse group of backgrounds and experience; the loudest voice in the room isn't always right.
 * Flexible vacation policy and paid parental leave. We value our own family time, and don't ask you to compromise yours.
 * Relaxed work environment. We're serious about our product and casual about everything else.
