@@ -53,7 +53,7 @@ __Why Sendwithus?__
 * Flexible vacation policy and paid parental leave. We value our own family time, and don't ask you to compromise yours.
 * Relaxed work environment. We're serious about our product and casual about everything else.
 * Health, dental, and vision benefits for you and your family.
-* Challenging and rewarding career path as you take an early leadership role in our engineering team.
+* Challenging and rewarding career path as an early leader in our engineering team.
 
 
 __Apply__
