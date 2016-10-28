@@ -3,6 +3,8 @@ Junior Sales Development Representative (SDR) Intern
 
 Sendwithus is looking for a Junior Sales Development Representative (SDR) Intern. We are a YCombinator W14 company looking for a passionate candidate to work on high impact projects with our growth team. 
 
+<!-- more -->
+
 Sendwithus powers product emails for enterprise businesses and services. Our systems are responsible for more than 10 million emails each day, making us one of the top 300 email senders in the world. We provide customers with a simple and highly-available app to manage and send templated emails to their users, with minimal support from their development team. Our servers are handling nearly 100 million web requests each day.
 
 We’re a Y Combinator company, backed by some of the best startup investors in the world. Our engineering team takes pride in solving challenging technical problems, often involving complex user interactions, high-throughput performance, and large scale data storage.
