@@ -3,15 +3,15 @@
 Sendwithus is looking for a talented and passionate Engineering Intern to join our team in Victoria BC. You'll be working alongside our Product and Platform Engineering Teams to design, build, and scale technical solutions our customers will love.
 
 ### In your first month, you will…
-    • Learn what Sendwithus does and who our customers are
-    • Participate in engineering planning and design meetings
-    • Complete your starter project and deploy real code to production
+* Learn what Sendwithus does and who our customers are
+* Participate in engineering planning and design meetings
+* Complete your starter project and deploy real code to production
 
 ### By the end of your term, you will…
-    • Ship a major update to a customer facing feature or platform service
-    • Use large datasets to develop and prioritize system improvements
-    • Measure project success metrics and implement optimizations
-    • Have real-world experience building and deploying complex web applications
+* Ship a major update to a customer facing feature or platform service
+* Use large datasets to develop and prioritize system improvements
+* Measure project success metrics and implement optimizations
+* Have real-world experience building and deploying complex web applications
 
 This role is not specific to frontend, backend, or full-stack development. We have opportunities at all levels of the tech stack, and want to work with you to find projects that are both meaningful to you and interesting to work on.
 
