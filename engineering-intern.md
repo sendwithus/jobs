@@ -5,6 +5,8 @@ __Victoria BC &middot; Full Time__
 
 Sendwithus is looking for a talented and passionate Engineering Intern to join our team in Victoria BC. You'll be working alongside our Product and Platform Engineering Teams to design, build, and scale technical solutions our customers will love.
 
+<!-- more -->
+
 ### In your first month, you will…
 * Learn what Sendwithus does and who our customers are
 * Participate in engineering planning and design meetings
