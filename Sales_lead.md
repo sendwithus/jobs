@@ -5,6 +5,8 @@ __San Francisco CA &middot; Full Time__
 
 Sendwithus is looking for a Sales Lead to build out our sales team. We are looking for a leader who has experience scaling sales teams in a startup environment with a player/coach mentality. This position has a lot of space for creativity and independence. You will be partnering with our Marketing, Product, and Customer Success teams to optimize sales processes, decrease closing times, and increase overall customer success.
 
+<!-- more -->
+
 __About Sendwithus__
 
 We are a Y Combinator W14 company, backed by some of the best startup investors in the world. Our Sales team takes pride in finding the best solutions for our clients when it comes to Enterprise Email Orchestration. Our systems are responsible for more than 10 million emails each day, making us one of the top 300 email senders in the world. We provide Marketers with a simple and highly-available app to manage and send templated emails to their users, with minimal support from their development team. 
