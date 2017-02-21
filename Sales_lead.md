@@ -4,12 +4,7 @@ Sales Team Lead
 __San Francisco CA &middot; Full Time__
 
 Sendwithus is looking for a Sales Lead to build out our sales team. We are looking for a leader who has experience scaling sales teams in a startup environment with a player/coach mentality. This position has a lot of space for creativity and independence. You will be partnering with our Marketing, Product, and Customer Success teams to optimize sales processes, decrease closing times, and increase overall customer success.
-
 <!-- more -->
-
-__About Sendwithus__
-
-We are a Y Combinator W14 company, backed by some of the best startup investors in the world. Our Sales team takes pride in finding the best solutions for our clients when it comes to Enterprise Email Orchestration. Our systems are responsible for more than 10 million emails each day, making us one of the top 300 email senders in the world. We provide Marketers with a simple and highly-available app to manage and send templated emails to their users, with minimal support from their development team. 
 
 ### During the First Month, You’ll…
 * Learn the Sendwithus platform and be able to demo it in its entirety to any potential clients.
@@ -42,8 +37,11 @@ We are a Y Combinator W14 company, backed by some of the best startup investors 
 
 ### What we offer:
 * Competitive salary + benefits + parental leave + office perks + dog friendly office.
-* Rapid professional growth through and ability to grow your own team.
+* Rapid professional growth and the ability to grow your own team.
 * You will own your projects and see them through to completion.
 * Work with a small creative team ope to new ideas and projects.
+
+## The Sendwithus Story
+Sendwithus powers email communication for large online businesses. Our system handles thousands of users and more than 15 Million emails every day, ranging from real-time notifications and invoices to personalized marketing campaigns and product updates. Our customers include Microsoft, Zillow, DonorsChoose, and Teespring - in fact, we're already one of the top 300 email senders in the world. We were part of Y Combinator's W14 batch, have offices in both Victoria and San Francisco, and have raised more than $2.5 Million from some of the top tech investors in the world.
 
 If this sounds like you and you want to get involved with a growing startup send us your resume, LinkedIn profile, and any passion projects that you have worked on to [jobs@sendwithus.com](mailto:jobs@sendwithus.com). We look forward to meeting you.
