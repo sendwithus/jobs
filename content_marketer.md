@@ -4,6 +4,7 @@ Content Marketer
 __San Francisco CA &middot; Full Time__
 
 Sendwithus is looking for a talented and passionate Content Marketer to join our team in San Francisco CA. You'll be working alongside our Sales and Product teams to design, create, and strategize around great content pieces.
+<!-- more -->
 
 ### In the first month you will…
 * Learn the requirements of the Sendwithus marketing and sales process 
