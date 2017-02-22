@@ -4,6 +4,7 @@ Growth Intern
 __San Francisco CA and Victoria BC &middot; Full Time__
 
 Sendwithus is looking for an eager Growth Intern to join our team in Victoria BC or San Francisco CA. You will be working alongside our Sales and Marketing teams to prospect leads, do outreach, sit on sales calls, and qualify sales leads.
+<!-- more -->
 
 ### In your first month, you will…
 * Be working closely with the Sales team to start developing an understanding of what a great customer looks like and begin to identify them using sales software.
