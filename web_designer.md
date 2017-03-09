@@ -35,6 +35,6 @@ Sendwithus is looking for a passionate and creative Web Designer to join our tea
 Sendwithus powers email communication for large online businesses. Our system handles thousands of users and more than 15 Million emails every day, ranging from real-time notifications and invoices to personalized marketing campaigns and product updates. Our customers include Microsoft, Zillow, DonorsChoose, and Teespring - in fact, we're already one of the top 300 email senders in the world. We were part of Y Combinator's W14 batch, have offices in both Victoria and San Francisco, and have raised more than $2.5 Million from some of the top tech investors in the world.
 
 ### Applying
-If this position sounds like something you want to be a part of, send us a portfolio of your work, an updated resume and a few lines describing who you are and your design process.
+If this position sounds like something you want to be a part of, send us a portfolio of your work, an updated resume and a few lines describing who you are and your design process to jobs@sendwithus.com.
 
 We look forward to hearing from you!
